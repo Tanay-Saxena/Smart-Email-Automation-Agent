@@ -1,8 +1,7 @@
 
 ---
 
-# Name : Tanay Saxena (22BDS0049) - VIT Vellore
-# Email Agent – OceanAI Assignment 2
+
 
 This repository contains an AI-powered email assistant capable of categorizing emails, extracting actionable tasks, generating draft replies, and answering free-form questions about any selected email.
 The system is built using a **React (Vite) frontend** and a **Node.js Express backend** integrated with **Gemini 2.0 Flash**.
